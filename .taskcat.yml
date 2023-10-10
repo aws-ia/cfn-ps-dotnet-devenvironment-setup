@@ -1,6 +1,6 @@
 project:
   owner: quickstart-eng@amazon.com
-  name: quickstart-dotnet-devenvironment-setup
+  name: cfn-ps-dotnet-devenvironment-setup
   parameters:
     KeyName: $[taskcat_getkeypair]
   regions:
